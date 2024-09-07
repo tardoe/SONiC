@@ -481,10 +481,10 @@
  },
 "sonic-mellanox.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
-  "build": "null",
-  "date": ""
+  "build": "",
+  "date": "null"
  },
 "sonic-vs.img.gz": {
   "url": "",
